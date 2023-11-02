@@ -1,162 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 12,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "news-com-au",
-                "name": "News.com.au"
+                "id": null,
+                "name": "Hindustan Times"
             },
-            "author": "Chloe Whelan",
-            "title": "Aussie workers share in half a billion dollars",
-            "description": "Australian workers have received a share of half a billion dollars as the Fair Work watchdog continues its pursuit of businesses with dodgy pay practices.",
-            "url": "https://www.news.com.au/finance/money/fair-work-backpayments-australian-workers-share-in-half-a-billion-dollars/news-story/ac1142d17af5572138a8e7e77891b79a",
-            "urlToImage": "https://content.api.news/v3/images/bin/58db22bcda13886f6f5d11ca7fc2075c",
-            "publishedAt": "2023-10-24T10:37:00Z",
-            "content": "Australian workers have received a share of half a billion dollars as the Fair Work watchdog continues its pursuit of businesses with dodgy pay practices. \r\nAustralia’s Fair Work Ombudsman (FWO) reco… [+1941 chars]"
+            "author": "Akanksha Agnihotri",
+            "title": "World Stroke Day 2023: Date, history, significance, theme and everything you need to know about this day - Hindustan Times",
+            "description": "World Stroke Day on October 29 aims to reduce the incidence and burden of strokes globally. From theme to history, here is all you need to know.  | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/world-stroke-day-2023-date-history-significance-theme-and-everything-you-need-to-know-about-this-day-101698494636713.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/28/1600x900/v456_d7zj_220811_1698495996419_1698496019640.jpg",
+            "publishedAt": "2023-10-28T12:29:58Z",
+            "content": "World Stroke Day is an annual global observance that serves as a critical reminder of the prevalence and impact of strokes on individuals and communities worldwide. This day is dedicated to raising a… [+2895 chars]"
         },
         {
             "source": {
-                "id": "gruenderszene",
-                "name": "Gruenderszene"
+                "id": null,
+                "name": "The Indian Express"
             },
-            "author": null,
-            "title": "Wie Startups und etablierte Unternehmen zusammen die Zukunft gestalten",
-            "description": "Startup-Kollaborationen erzeugen positive Synergieeffekte und stärken den Business-Erfolg. So gelingt die Zusammenarbeit.",
-            "url": "https://www.businessinsider.de/gruenderszene/sponsored-post/pwc-innovationsoekosysteme/startup-kollaborationen-staerken-den-business-erfolg-pwc-9674491513/",
-            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/08/pwc_artikelbild.jpg?ver=1694607365",
-            "publishedAt": "2023-10-24T09:15:00+00:00",
-            "content": "Arbeiten etablierte Firmen und Startups zusammen, ergeben sich positive Synergieeffekte. Wie beide voneinander lernen, Innovationen fördern und den Business-Erfolg stärken.Von der Globalisierung bis … [+4492 chars]"
-        },
-        {
-            "source": {
-                "id": "the-huffington-post",
-                "name": "The Huffington Post"
-            },
-            "author": "AP",
-            "title": "Prison Time For California Man Who Sent Vile Messages To Gun Massacre Victim's Dad",
-            "description": "A California business owner will spend a year in federal prison for sending more than 200 vile online messages to a father whose daughter was killed in a Florida school massacre.",
-            "url": "https://www.huffpost.com/entry/bc-us-school-shooting-florida-cyberstalker_n_653704d5e4b011a9cf7abf92",
-            "urlToImage": "https://img.huffingtonpost.com/asset/653704d8230000870028871d.jpeg?ops=1200_630",
-            "publishedAt": "2023-10-23T23:48:48Z",
-            "content": "FORT LAUDERDALE, Fla. (AP) A California property manager was sentenced to a year in federal prison for sending more than 200 vile online messages to a father of a teenage girl who died in the 2018 ma… [+2022 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "Autodesk moves to 'hybrid first' work policy to assist with employee engagement and productivity | CNN Business",
-            "description": "Many tech companies now have a return-to-office mandate for employees. However, software company Autodesk is taking a different approach with their work from home policy.",
-            "url": "https://www.cnn.com/videos/business/2023/10/20/autodesk-hybrid-work-flex-forward-me-orig.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231020101844-autodesk-hybrid-work-policy-risk-takers-1.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-10-23T11:01:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": null,
-            "title": "In insurtech, too, business models aren&#8217;t one-size-fits-all",
+            "author": "The Indian Express",
+            "title": "Australia vs New Zealand Live Score, World Cup 2023: Rachin Ravindra departs after century; NZ at 296/6 in 41 overs chasing 389 - The Indian Express",
             "description": null,
-            "url": "https://techcrunch.com/2023/10/21/insurtech-business-models-dtc/",
+            "url": "https://indianexpress.com/article/sports/cricket/australia-vs-new-zealand-live-score-world-cup-2023-27th-match-today-aus-vs-nz-scorecard-updates-dharamsala-9002646/",
             "urlToImage": null,
-            "publishedAt": "2023-10-21T17:22:21.4081781Z",
+            "publishedAt": "2023-10-28T12:23:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
+                "id": null,
+                "name": "Business Standard"
             },
-            "author": "Financial Post",
-            "title": "Financial Post",
-            "description": "Financial Times offers the latest news on finance and business. Keep on top of what's happening in Canada's financial market.",
-            "url": "http://business.financialpost.com/category/financial-times/",
-            "urlToImage": "https://dcs-static.gprod.postmedia.digital/14.5.3/websites/images/fp/ogimage-fp.png",
-            "publishedAt": "2023-09-26T18:22:21.9387323Z",
-            "content": null
+            "author": "Press Trust of India",
+            "title": "Sena MLAs disqualification row: SC to hear pleas of both factions on Oct 30 - Business Standard",
+            "description": "The Supreme Court is scheduled to hear on October 30 pleas filed by the Uddhav Thackeray faction of the Shiv Sena and the Sharad Pawar bloc of the NCP, seeking a direction to the Maharashtra assembly speaker to expeditiously decide disqualification petitions …",
+            "url": "https://www.business-standard.com/india-news/sena-mlas-disqualification-row-sc-to-hear-pleas-of-both-factions-on-oct-30-123102800560_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/23/full/1661244419-2873.jpg",
+            "publishedAt": "2023-10-28T11:55:05Z",
+            "content": "Expressing dissatisfaction with the time schedule given by the Speaker, the top court had said, \"The time schedule as proposed will not result in a foreseeable conclusion of the disqualification peti… [+487 chars]"
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": null,
+                "name": "NDTV News"
             },
             "author": null,
-            "title": "Major business group blames Biden for UAW strike",
-            "description": "The United Auto Workers announced a strike at three plants — one each at Ford, General Motors and Stellantis — overnight.",
-            "url": "https://www.politico.com/news/2023/09/15/chamber-blames-biden-for-uaw-strike-00116216",
-            "urlToImage": "https://static.politico.com/bd/2c/a23ba1894935970bfe33fc3a9cc4/https-delivery-gettyimages.com/downloads/1241221279",
-            "publishedAt": "2023-09-15T11:38:22+00:00",
-            "content": "The United Auto Workers announced a strike at three plants one each at Ford, General Motors and Stellantis overnight after failing to agree on a contract with the so-called Big Three auto companies. … [+2220 chars]"
+            "title": "7 Of Gujarat Family, Including 3 Children, Found Dead In 'Mass Suicide' - NDTV",
+            "description": "Seven members of a family, including three children under the age of eight, have been found dead in a suspected mass suicide in Surat. Police said a suicide note has been recovered.",
+            "url": "https://www.ndtv.com/india-news/7-of-gujarat-family-including-3-children-found-dead-in-mass-suicide-4523018",
+            "urlToImage": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg",
+            "publishedAt": "2023-10-28T11:34:49Z",
+            "content": "A suicide note has been recovered.\r\nSurat: Seven members of a family, including three children under the age of eight, have been found dead in a suspected mass suicide in Surat. Police said a suicide… [+859 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "the-times-of-india",
+                "name": "The Times of India"
             },
-            "author": "Alex Fitzpatrick, Kavya Beheraj",
-            "title": "The country's new business hot spots, mapped",
-            "description": "The Southeastern U.S. is a hotbed of new business activity.",
-            "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
-            "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
-            "publishedAt": "2023-07-13T09:30:06Z",
-            "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+            "author": "TIMESOFINDIA.COM",
+            "title": "Lunar Eclipse: Space scientist busts misconceptions related to celestial phenomena | News - Times of India Videos - Times of India",
+            "description": "Space Scientist Dr. Suvendu Patnaik dispelled eclipse myths ahead of the lunar eclipse occurring on the night of 28 and 29. He clarified that the moon's disk will be only about six per cent covered and can be observed with the naked eye. Patnaik emph",
+            "url": "https://timesofindia.indiatimes.com/videos/news/lunar-eclipse-space-scientist-busts-misconceptions-related-to-celestial-phenomena/videoshow/104781438.cms",
+            "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104781438,imgsize-940315.cms",
+            "publishedAt": "2023-10-28T11:27:52Z",
+            "content": "Oct 28, 2023, 05:00PM ISTSource: TOI.inSpace Scientist Dr. Suvendu Patnaik dispelled eclipse myths ahead of the lunar eclipse occurring on the night of 28 and 29. He clarified that the moon's disk wi… [+588 chars]"
         },
         {
             "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
+                "id": null,
+                "name": "Livemint"
             },
-            "author": "Financial Post",
-            "title": "Financial Post",
-            "description": "Looking for advice on your career? The Financial Post's Work section offers tips from experts on business and work life.",
-            "url": "http://business.financialpost.com/category/fp-work/",
-            "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
-            "publishedAt": "2023-05-17T20:37:35.1964584Z",
-            "content": null
+            "author": "Livemint",
+            "title": "Cash-for-query case: Ethics committee asks Mahua Moitra to appear on Nov 2 - Mint",
+            "description": "Cash-for-query case: Ethics Committee tells TMC MP Mahua Moitra it will entertain no request for extension in date of appearance beyond Nov 2.",
+            "url": "https://www.livemint.com/news/cashforquery-case-ethics-committee-asks-mahua-moitra-to-appear-on-nov-2-says-wont-entertain-anymore-11698482443924.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/28/1600x900/PTI10-26-2023-000007B-0_1698485158353_1698485192872.jpg",
+            "publishedAt": "2023-10-28T10:19:08Z",
+            "content": "Lok Sabha Ethics Committee has asked Trinamool Congress MP Mahua Moitra to appear before it on November 2 instead of October 31 in connection with the cash-for-query case. The ethics committee has, h… [+2553 chars]"
         },
         {
             "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "Financial Post",
-            "title": "Financial Post",
-            "description": "Stay updated on the Canadian economy with the Financial Post's latest business stories on Canadian industries, trade, policy, jobs and more.",
-            "url": "http://business.financialpost.com/category/news/economy/",
-            "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
-            "publishedAt": "2023-05-17T20:37:25.9932883Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": null,
+                "name": "NDTV News"
             },
             "author": null,
-            "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
-            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-            "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
-            "urlToImage": null,
-            "publishedAt": "2021-12-14T06:22:29.1165883Z",
-            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+            "title": "Political Slugfest As India Abstains On Gaza Vote At UN Emergency Session - NDTV",
+            "description": "A political slugfest has broken out after India abstained from a vote at the UN General Assembly calling for an immediate humanitarian truce in the war between Israel and Hamas.",
+            "url": "https://www.ndtv.com/india-news/israel-hamas-war-bjp-vs-congress-after-india-abstains-from-un-vote-on-gaza-ceasefire-4522799",
+            "urlToImage": "https://c.ndtvimg.com/2023-10/u4ru77ko_gaza-devastation_625x300_22_October_23.jpg",
+            "publishedAt": "2023-10-28T10:15:43Z",
+            "content": "New Delhi: A political slugfest has broken out after India abstained from a vote at the UN General Assembly calling for an immediate humanitarian truce in the war between Israel and Hamas. While the … [+2696 chars]"
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Sagar",
+            "title": "Tata to become first Indian company to make iPhones with the $125 million Wistron deal - GSMArena.com news - GSMArena.com",
+            "description": "The Indian conglomerate will produce iPhones in India for sale in domestic and global markets. Apple's been assembling iPhones in India for over half a...",
+            "url": "https://www.gsmarena.com/tata_electronics_wistron_iphone_deal-news-60400.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/10/tata-group-wistron-iphone-deal/-952x498w6/gsmarena_001.jpg",
+            "publishedAt": "2023-10-28T10:15:01Z",
+            "content": "Apple's been assembling iPhones in India for over half a decade now, with the first \"Made in India\" iPhone being the iPhone SE produced by Foxconn in 2017. Apple has two more partners in India for ma… [+1638 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "\"Jai Shree Hanuman\": Keshav Maharaj's Post After Win Over Pakistan In Cricket World Cup 2023 Wins Internet | Cricket News - NDTV Sports",
+            "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+            "url": "https://www.bbc.com/news/world-us-canada-39324587",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+            "publishedAt": "2023-10-28T10:15:00Z",
+            "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Naman Suri",
+            "title": "Piramal Pharma revenue up 11% to ₹1,911 crore in Q2 | Mint - Mint",
+            "description": "Consolidated profit after tax came in at  ₹5 crore in the quarter, as against a loss in the corresponding quarter last year",
+            "url": "https://www.livemint.com/news/india/piramal-pharma-revenue-up-11-to-1-911-crore-in-q2-11698486911346.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/28/1600x900/Pira_1689670879036_1698487417390.jpg",
+            "publishedAt": "2023-10-28T10:06:42Z",
+            "content": "New Delhi: Piramal Pharma Limited on Saturday reported an 11% year-on-year rise in its consolidated revenue from operations to 1,911 crore from 1,720 crore in Q2FY23, driven by strong performance acr… [+2232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "At least 32 dead, 18 missing after mine fire in Kazakhstan - Hindustan Times",
+            "description": "Kazakhstan Mine Fire: Kazakh president expressed condolences to the victims' families and declared a national day of mourning on October 29. | World News",
+            "url": "https://www.hindustantimes.com/world-news/kazakhstan-mine-fire-at-least-28-dead-18-missing-after-mine-fire-in-kazakhstan-101698486581853.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/28/1600x900/F9hEV_CbUAA4R2J_1698486657633_1698486675918.jpeg",
+            "publishedAt": "2023-10-28T10:00:40Z",
+            "content": "At least 32 people died and 18 remained missing after a mine fire in Kazakhstan, the Ministry for Emergency Situations said. Operator ArcelorMittal Temirtau, the local unit of the Luxembourg-based st… [+1113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "BJP says Priyanka Gandhi's Israel post attempt to look better than Rahul Gandhi - Hindustan Times",
+            "description": "India abstained from voting on a resolution in the United Nations that called for an immediate humanitarian truce in the ongoing Israel-Hamas conflict. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/bjp-says-priyanka-gandhis-israel-post-attempt-to-look-better-than-rahul-gandhi-101698484179689.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/28/1600x900/ANI-20231018324-0_1697702906485_1698487080808.jpg",
+            "publishedAt": "2023-10-28T09:59:36Z",
+            "content": "Bharatiya Janata Party leader Mukhtar Abbas Naqvi on Saturday lashed out at Congress general secretary Priyanka Gandhi Vadra who said she was shocked and ashamed over India abstaining at the United N… [+2353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Etvbharat.com"
+            },
+            "author": "ETV Bharat",
+            "title": "ISRO's Chandrayaan-3 research behind paywall irks netizens, academics - ETV Bharat",
+            "description": "The Chandrayaan-3 mission marked a significant achievement in the realm of lunar exploration. The ISRO said that the lunar mission generated an 'ejecta halo' of lunar material in its recent post on X. ISRO also shared the web link to the research paper hosted…",
+            "url": "https://www.etvbharat.com/english/science-and-technology/isro-chandrayaan-3-lunar-mission-results-published-in-springer-behind-paywall-irks-netizens-academics/na20231028151951641641579",
+            "urlToImage": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/28-10-2023/1200-675-19879045-thumbnail-16x9-img.jpg",
+            "publishedAt": "2023-10-28T09:50:10Z",
+            "content": "Hyderabad: The Indian Space Research Organisation (ISRO) unveiled the eagerly awaited results of the Chandrayaan-3 lunar mission on Friday, however, the findings were kept behind a paywall irking net… [+3690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olympics.com"
+            },
+            "author": "Utathya Nag",
+            "title": "Asian Shooting Championships 2023: Manu Bhaker secures Paris 2024 Olympic quota for India - Olympics",
+            "description": "Manu Bhaker secured a Paris 2024 Olympic quota for India in the women’s 25m pistol event at the Asian Shooting Championships 2023 in Changwon.",
+            "url": "https://olympics.com/en/news/asian-shooting-championships-2023-india-olympic-quota-manu-bhaker-25m-pistol",
+            "urlToImage": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wdgnkpnyzmm1ojgrqqfk",
+            "publishedAt": "2023-10-28T08:43:00Z",
+            "content": "The Asian Shooting Championships 2023 is a qualifying event for the Paris 2024 Olympics. A total of 24 Olympic quotas are on offer with the top two finishers (one per country) in each of the 12 Olymp… [+2190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "123telugu.com"
             },
             "author": null,
-            "title": "Need relief from the stress of screen time? There’s an app for that",
-            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-            "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
-            "urlToImage": null,
-            "publishedAt": "2021-12-14T06:22:27.4295096Z",
-            "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+            "title": "Bigg Boss 7 Telugu: Ratika trying hard to woo this housemate - 123telugu",
+            "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+            "url": "https://www.123telugu.com/mnews/bigg-boss-7-telugu-ratika-trying-hard-to-woo-this-housemate.html",
+            "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+            "publishedAt": "2023-10-28T08:31:00Z",
+            "content": "Bigg Boss 7 has caught on quite well and with each passing day, there is a new twist that is being showcased in the house. Gautam Krishna has become the new captain of the house and he will be safe n… [+692 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Shreyashi Sanyal, Lim Hui Jie",
+            "title": "Asia markets rebound after heavy sell-off; former China premier Li Keqiang dies - CNBC",
+            "description": "Asia Pacific markets rebounded on Friday, with Australia stocks attempting to bounce from a one year low in the previous session.",
+            "url": "https://www.cnbc.com/2023/10/27/asia-stock-markets-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303398-1695173577284-gettyimages-1621619863-AFP_33TB3TW.jpeg?v=1698364711&w=1920&h=1080",
+            "publishedAt": "2023-10-28T08:01:38Z",
+            "content": "Asia-Pacific markets attempted a rebound on Friday, with Australia stocks bouncing from a one-year low in the previous session as investors continue to digest more inflation data.\r\nCore consumer pric… [+1502 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "All that Apple could announce at its Scary Fast event: M3 chips, MacBook Pro, iMac, and more - Times of India",
+            "description": "Apple has announced its second fall event, scheduled for October 30, which will focus on the Mac lineup. It is expected that Apple will unveil updates",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/all-that-apple-could-announce-at-its-scary-fast-event-m3-chips-macbook-pro-imac-and-more/articleshow/104775878.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-104775858,width-1070,height-580,imgsize-117064,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-10-28T07:59:47Z",
+            "content": "5G flip phones under Rs 70,000 from Samsung, Oppo and more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Rozgar Mela: PM Modi distributes 51,000 appointment letters to new recruits | Mint - Mint",
+            "description": "Rozgar Mela: PM Modi distributes 51,000 appointment letters to new recruits.",
+            "url": "https://www.livemint.com/news/india/rozgar-mela-pm-modi-distributes-51-000-appointment-letters-to-new-recruits-11698479325609.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/28/1600x900/This-was-PM-Modi-s-third-visit-to-Rajasthan-in-the_1696741422317_1698479564595.jpg",
+            "publishedAt": "2023-10-28T07:50:07Z",
+            "content": "Prime Minister Narendra Modi on Saturday distributed more than 51,000 appointment letters to newly inducted recruits, according to a report published by the news agency ANI.\r\n Rozgar Mela is being he… [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "Mangalyaan-2 mission: India’s next step towards Mars - HT Tech",
+            "description": "India is progressing fast in the realm of space exploration. After Chandrayaan-3, Aditya-L1, and Gaganyaan, the Indian space agency ISRO is now aiming for its next phase of the Mangalyaan mission.",
+            "url": "https://tech.hindustantimes.com/photos/mangalyaan2-mission-india-s-next-step-towards-mars-71698477704601.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/oik_1698477736278_1698478501277.jpg",
+            "publishedAt": "2023-10-28T07:35:40Z",
+            "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Dialogues"
+            },
+            "author": "Adity Saha",
+            "title": "Unfortunate: PG Orthopedic Student at SSKM Hospital succumbs to dengue - Medical Dialogues",
+            "description": "Kolkata: In an unfortunate incident, a post-graduate medical student passed away on Friday in the SSKM Hospital, where he was a student, after suffering from the mosquito-borne disease - dengue.He...",
+            "url": "https://medicaldialogues.in/doctors/unfortunate-pg-orthopedic-student-at-sskm-hospital-succumbs-to-dengue-119452",
+            "urlToImage": "https://medicaldialogues.in/h-upload/2022/09/16/185706-dead-1.jpg",
+            "publishedAt": "2023-10-28T07:34:12Z",
+            "content": "Kolkata: In an unfortunate incident, a post-graduate medical student passed away on Friday in the SSKM Hospital, where he was a student, after suffering from the mosquito-borne disease - dengue.\r\nHe … [+1338 chars]"
         }
     ]
 }
